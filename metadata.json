@@ -1,0 +1,6 @@
+{
+  "name": "Safe119 출동 피로도 모니터링 대시보드",
+  "description": "공공데이터 소방청 출동정보 API 연동 119 안전센터 대원 피로도 및 소방력 관제 모니터링 시스템 (Safe119 MVP)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
